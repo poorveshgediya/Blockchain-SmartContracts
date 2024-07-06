@@ -1,1 +1,1 @@
-# Blockchain-SmartContracts
+# Lotery-SmartContracts
